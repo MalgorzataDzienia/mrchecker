@@ -1,7 +1,7 @@
 == Who Is MrChecker?
 * link:home.asciidoc[Who is MrChecker]
 * link:benefits.asciidoc[Benefits for the project]
-* link:Who-Is-MrChecker/Test-Stages.asciidoc[Test Stages]
+* link:Test-Stages.asciidoc[Test Stages]
 
 == Test Framework Modules
 === link:Who-Is-MrChecker/Test-Framework-Modules/Core-Test-Module.asciidoc[Core Test Module]
